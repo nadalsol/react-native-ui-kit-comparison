@@ -7,7 +7,7 @@ _By @nadalsol, on July 2021._
 
 ## Table Of Contents
 
-1. [NativeBase](#1-native-base)
+1. [NativeBase](#1-nativebase)
 2. [React Native Paper](#2-react-native-paper)
 3. [React Native Elements](#3-react-native-elements)
 4. [UI Kitten](#4-ui-kitten)
