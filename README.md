@@ -5,7 +5,16 @@ _By @nadalsol, on July 2021._
 - Based on my own research and this article: [5 Best Free React Native UI Kits of 2020](https://bit.ly/3i7fK3z).
 - Ordered by preference.
 
-# 1 . NativeBase
+## Table Of Contents
+
+1. [NativeBase](#1-native-base)
+2. [React Native Paper](#2-react-native-paper)
+3. [React Native Elements](#3-react-native-elements)
+4. [UI Kitten](#4-ui-kitten)
+
+---
+
+## 1. NativeBase
 
 - [Site](https://nativebase.io/)
 - [GitHub](https://github.com/GeekyAnts/NativeBase)
@@ -31,7 +40,7 @@ _By @nadalsol, on July 2021._
 | Mobile first             | ✅         |
 | CSS in JS                | ✅         |
 
-## 2 . React Native Paper
+## 2. React Native Paper
 
 - [Site](https://reactnativepaper.com/)
 - [GitHub](https://github.com/callstack/react-native-paper)
@@ -58,7 +67,7 @@ _By @nadalsol, on July 2021._
 | Mobile first             | ???        |
 | CSS in JS                | ✅         |
 
-## 3 . React Native Elements
+## 3. React Native Elements
 
 - [Site](https://reactnativeelements.com/)
 - [GitHub](https://github.com/react-native-elements/react-native-elements)
@@ -84,7 +93,7 @@ _By @nadalsol, on July 2021._
 | Mobile first             | ???         |
 | CSS in JS                | ✅          |
 
-# 4 . UI Kitten
+## 4. UI Kitten
 
 - [Site](https://akveo.github.io/react-native-ui-kitten/)
 - [GitHub](https://github.com/akveo/react-native-ui-kitten)
@@ -112,4 +121,4 @@ _By @nadalsol, on July 2021._
 
 ---
 
-( \* ) [Expo](https://expo.dev/) is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
+> ( \* ) [Expo](https://expo.dev/) is a framework and a platform for universal React applications. It is a set of tools and services built around React Native and native platforms that help you develop, build, deploy, and quickly iterate on iOS, Android, and web apps from the same JavaScript/TypeScript codebase.
